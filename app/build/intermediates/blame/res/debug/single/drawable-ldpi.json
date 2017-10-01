@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_communities.png",
+        "source": "/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/res/drawable-ldpi/ic_communities.png"
+    },
+    {
+        "merged": "/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_people.png",
+        "source": "/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/res/drawable-ldpi/ic_people.png"
+    },
+    {
+        "merged": "/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_launcher.png",
+        "source": "/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_pages.png",
+        "source": "/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/res/drawable-ldpi/ic_pages.png"
+    },
+    {
+        "merged": "/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_photos.png",
+        "source": "/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/res/drawable-ldpi/ic_photos.png"
+    },
+    {
+        "merged": "/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_whats_hot.png",
+        "source": "/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/res/drawable-ldpi/ic_whats_hot.png"
+    },
+    {
+        "merged": "/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_home.png",
+        "source": "/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/res/drawable-ldpi/ic_home.png"
+    }
+]

@@ -1,0 +1,7 @@
+#Mon Oct 02 01:18:45 ICT 2017
+base.0=/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9d801e3d4c3f0c9c3eb0da23354cab996df74a41
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d58b4b10b14807bef86267a40c675dda6cc09e4b/classes.dex
+base.1=/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d58b4b10b14807bef86267a40c675dda6cc09e4b
+file.0=/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9d801e3d4c3f0c9c3eb0da23354cab996df74a41/classes.dex

@@ -1,0 +1,105 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/AndroidManifest.xml:2:1-52:12
+	package
+		ADDED from /Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/AndroidManifest.xml:7:22-78
+uses-sdk
+ADDED from /Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/AndroidManifest.xml:8:5-10:41
+	android:targetSdkVersion
+		ADDED from /Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/AndroidManifest.xml:10:9-38
+		INJECTED from /Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/AndroidManifest.xml:9:9-35
+		INJECTED from /Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/AndroidManifest.xml:12:5-49:19
+	android:label
+		ADDED from /Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/AndroidManifest.xml:15:9-41
+	android:allowBackup
+		ADDED from /Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/AndroidManifest.xml:13:9-35
+	android:icon
+		ADDED from /Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/AndroidManifest.xml:14:9-45
+	android:theme
+		ADDED from /Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/AndroidManifest.xml:16:9-40
+activity#com.phatnguyen.youtubeapidemo.activity.MainActivity
+ADDED from /Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/AndroidManifest.xml:17:9-28:20
+	android:label
+		ADDED from /Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/AndroidManifest.xml:19:13-45
+	android:name
+		ADDED from /Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/AndroidManifest.xml:18:13-79
+meta-data#android.app.default_searchable
+ADDED from /Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/AndroidManifest.xml:20:13-22:58
+	android:value
+		ADDED from /Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/AndroidManifest.xml:22:17-55
+	android:name
+		ADDED from /Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/AndroidManifest.xml:21:17-62
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from /Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/AndroidManifest.xml:26:27-74
+activity#com.phatnguyen.youtubeapidemo.activity.YoutubePlayer
+ADDED from /Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/AndroidManifest.xml:30:9-35:20
+	android:screenOrientation
+		ADDED from /Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/AndroidManifest.xml:32:21-57
+	android:configChanges
+		ADDED from /Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/AndroidManifest.xml:31:21-82
+	android:name
+		ADDED from /Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/AndroidManifest.xml:30:19-86
+meta-data#minVersion
+ADDED from /Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/AndroidManifest.xml:33:9-65
+	android:value
+		ADDED from /Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/AndroidManifest.xml:33:46-63
+	android:name
+		ADDED from /Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/AndroidManifest.xml:33:20-45
+meta-data#isLaunchableActivity
+ADDED from /Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/AndroidManifest.xml:34:9-78
+	android:value
+		ADDED from /Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/AndroidManifest.xml:34:56-76
+	android:name
+		ADDED from /Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/AndroidManifest.xml:34:20-55
+activity#com.phatnguyen.youtubeapidemo.activity.SearchResultsActivity
+ADDED from /Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/AndroidManifest.xml:38:9-47:20
+	android:parentActivityName
+		ADDED from /Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/AndroidManifest.xml:39:13-93
+	android:name
+		ADDED from /Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/AndroidManifest.xml:38:19-94
+intent-filter#android.intent.action.SEARCH
+ADDED from /Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/AndroidManifest.xml:40:13-42:29
+action#android.intent.action.SEARCH
+ADDED from /Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/AndroidManifest.xml:41:17-71
+	android:name
+		ADDED from /Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/AndroidManifest.xml:41:25-68
+meta-data#android.app.searchable
+ADDED from /Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/AndroidManifest.xml:44:13-46:54
+	android:resource
+		ADDED from /Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/AndroidManifest.xml:46:17-51
+	android:name
+		ADDED from /Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/AndroidManifest.xml:45:17-54

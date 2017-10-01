@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="actionbar_background">#992416</color>
+    <color name="actionbar_text">#ffffff</color>
+    <color name="counter_text_bg">#626262</color>
+    <color name="counter_text_color">#c5c4c4</color>
+    <color name="list_background">#ffffff</color>
+    <color name="list_background_pressed">#992416</color>
+    <color name="list_divider">#c5c4c4</color>
+    <color name="list_item_title">#272727</color>
+    <color name="tab_highlight">#ffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="white_tint">#ffffff</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_search">Search</string>
+    <string name="action_settings">About </string>
+    <string name="app_name">Youtube Demo</string>
+    <string name="authorText"><i>Nguyễn Trọng Phát</i></string>
+    <string name="authorTitle"><b>Tác giả :</b></string>
+    <string name="descriptionText"><i>Với ứng dụng Clip hay tác giả hy vọng có thể  giúp mọi người có được những phút giây thư giãn thật thoải mái với những đoạn video hay đặc sắc trên nhiều lĩnh vực đã được tổng hợp, chọn lọc kỹ càng từ Youtube và luôn được cập nhật liên tục. Hiện ứng dụng đang trong quá trình phát triển và hoàn thiện chắc chắn sẽ không tránh khỏi thiếu sót. Rất mong nhận được những phản hồi tích cực từ các bạn, điều đó sẽ giúp tác giả phát triển ứng dụng ngày càng hoàn thiện hơn.</i></string>
+    <string name="descriptionTitle"><b>Thông tin ứng dụng :</b></string>
+    <string name="hello_world">Hello world!</string>
+    <string name="search_hint">Input key word</string>
+    <string name="search_result">Result</string>
+    <string name="versionText"><i>v1.0 BETA</i></string>
+    <string name="versionTitle"><b>Số phiên bản :</b></string>
+    <style name="ActionBarTabText.Rosenormal" parent="@android:style/Widget.Holo.Light.ActionBar.TabText">
+        <item name="android:textColor">#ffffff</item>
+    </style>
+    <style name="ActionButtonStyle" parent="@android:style/Widget.Holo.Light.ActionButton">
+    <item name="android:minWidth">15dip</item>
+    <item name="android:paddingLeft">15dip</item>
+    <item name="android:paddingRight">15dip</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_width">match_parent</item>
+    </style>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        
+        <item name="android:actionButtonStyle">@style/ActionButtonStyle</item>
+        <item name="android:actionOverflowButtonStyle">@style/OverFlow</item>
+        <item name="android:actionBarStyle">@style/MyTheme.ActionBarStyle</item>
+        <item name="android:actionBarTabStyle">@style/MyTheme.ActionBar.TabView</item>
+        <item name="android:actionBarTabTextStyle">@style/ActionBarTabText.Rosenormal</item>
+    </style>
+    <style name="MyTheme.ActionBar.TabView" parent="android:style/Widget.Holo.ActionBar.TabView">
+        <item name="android:background">@drawable/tab_bar_background</item>
+    </style>
+    <style name="MyTheme.ActionBar.TitleTextStyle" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textColor">#ffffff</item>
+    </style>
+    <style name="MyTheme.ActionBarStyle" parent="@android:style/Widget.Holo.Light.ActionBar">
+        <item name="android:titleTextStyle">@style/MyTheme.ActionBar.TitleTextStyle</item>
+    </style>
+    <style name="OverFlow" parent="@android:style/Widget.Holo.ActionButton.Overflow">
+        <item name="android:src">@drawable/ic_action_more_vert</item>
+    </style>
+</resources>

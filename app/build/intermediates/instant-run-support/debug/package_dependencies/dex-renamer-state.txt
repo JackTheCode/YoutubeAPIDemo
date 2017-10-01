@@ -1,0 +1,7 @@
+#Sun Oct 01 17:24:05 ICT 2017
+base.0=/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/YouTubeAndroidPlayerApi_fb87db26cc1ba0ed68f0eeefc3ba83efc2bbad7b
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_3e0ee037b8f77be965248540ab722df8bc003dce/classes.dex
+base.1=/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_3e0ee037b8f77be965248540ab722df8bc003dce
+file.0=/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/YouTubeAndroidPlayerApi_fb87db26cc1ba0ed68f0eeefc3ba83efc2bbad7b/classes.dex

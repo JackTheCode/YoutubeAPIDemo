@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/build/intermediates/res/merged/debug/layout/list_search_item.xml",
+        "source": "/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/res/layout/list_search_item.xml"
+    },
+    {
+        "merged": "/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/build/intermediates/res/merged/debug/layout/list_video_item.xml",
+        "source": "/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/res/layout/list_video_item.xml"
+    },
+    {
+        "merged": "/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/build/intermediates/res/merged/debug/layout/layout_youtube_player.xml",
+        "source": "/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/res/layout/layout_youtube_player.xml"
+    },
+    {
+        "merged": "/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/build/intermediates/res/merged/debug/layout/search_main_layout.xml",
+        "source": "/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/res/layout/search_main_layout.xml"
+    },
+    {
+        "merged": "/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/build/intermediates/res/merged/debug/layout/action_progressbar.xml",
+        "source": "/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/res/layout/action_progressbar.xml"
+    }
+]

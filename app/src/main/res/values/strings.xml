@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Youtube Demo</string>
+    <string name="action_settings">About </string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_search">Search</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="search_hint">Input key word</string>
+    <string name="search_result">Result</string>
+    <string name="authorTitle"><b>Tác giả :</b></string>
+    <string name="authorText"><i>Nguyễn Trọng Phát</i></string>
+    <string name="descriptionTitle"><b>Thông tin ứng dụng :</b></string>
+    <string name="descriptionText"><i>Với ứng dụng Clip hay tác giả hy vọng có thể  giúp mọi người có được những phút giây thư giãn thật thoải mái với những đoạn video hay đặc sắc trên nhiều lĩnh vực đã được tổng hợp, chọn lọc kỹ càng từ Youtube và luôn được cập nhật liên tục. Hiện ứng dụng đang trong quá trình phát triển và hoàn thiện chắc chắn sẽ không tránh khỏi thiếu sót. Rất mong nhận được những phản hồi tích cực từ các bạn, điều đó sẽ giúp tác giả phát triển ứng dụng ngày càng hoàn thiện hơn.</i></string>
+    <string name="versionTitle"><b>Số phiên bản :</b></string>
+    <string name="versionText"><i>v1.0 BETA</i></string>
+</resources>

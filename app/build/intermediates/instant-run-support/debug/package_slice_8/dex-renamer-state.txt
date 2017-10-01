@@ -1,0 +1,4 @@
+#Mon Oct 02 01:24:56 ICT 2017
+base.0=/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8
+renamed.0=classes.dex
+file.0=/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex

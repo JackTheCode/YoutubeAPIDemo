@@ -1,0 +1,430 @@
+[
+    {
+        "outputFile": "/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/res/values/color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 110,
+                    "endColumn": 48,
+                    "endOffset": 154
+                },
+                "from": {
+                    "file": "/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/res/values/color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 159,
+                    "endColumn": 49,
+                    "endOffset": 204
+                },
+                "from": {
+                    "file": "/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/res/values/color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 209,
+                    "endColumn": 52,
+                    "endOffset": 257
+                },
+                "from": {
+                    "file": "/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/res/values/color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 262,
+                    "endColumn": 49,
+                    "endOffset": 307
+                },
+                "from": {
+                    "file": "/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/res/values/color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 312,
+                    "endColumn": 57,
+                    "endOffset": 365
+                },
+                "from": {
+                    "file": "/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/res/values/color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 370,
+                    "endColumn": 46,
+                    "endOffset": 412
+                },
+                "from": {
+                    "file": "/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/res/values/color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 417,
+                    "endColumn": 49,
+                    "endOffset": 462
+                },
+                "from": {
+                    "file": "/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/res/values/color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 467,
+                    "endColumn": 47,
+                    "endOffset": 510
+                },
+                "from": {
+                    "file": "/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/res/values/color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 515,
+                    "endColumn": 47,
+                    "endOffset": 558
+                },
+                "from": {
+                    "file": "/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/res/values/color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 563,
+                    "endColumn": 44,
+                    "endOffset": 603
+                },
+                "from": {
+                    "file": "/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 575,
+                        "endColumn": 44,
+                        "endOffset": 615
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 608,
+                    "endColumn": 57,
+                    "endOffset": 661
+                },
+                "from": {
+                    "file": "/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 666,
+                    "endColumn": 55,
+                    "endOffset": 717
+                },
+                "from": {
+                    "file": "/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/res/values/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 722,
+                    "endColumn": 50,
+                    "endOffset": 768
+                },
+                "from": {
+                    "file": "/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 773,
+                    "endColumn": 48,
+                    "endOffset": 817
+                },
+                "from": {
+                    "file": "/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 822,
+                    "endColumn": 50,
+                    "endOffset": 868
+                },
+                "from": {
+                    "file": "/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 873,
+                    "endColumn": 49,
+                    "endOffset": 918
+                },
+                "from": {
+                    "file": "/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 923,
+                    "endColumn": 63,
+                    "endOffset": 982
+                },
+                "from": {
+                    "file": "/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 987,
+                    "endColumn": 56,
+                    "endOffset": 1039
+                },
+                "from": {
+                    "file": "/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1044,
+                    "endColumn": 516,
+                    "endOffset": 1556
+                },
+                "from": {
+                    "file": "/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1561,
+                    "endColumn": 72,
+                    "endOffset": 1629
+                },
+                "from": {
+                    "file": "/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1634,
+                    "endColumn": 52,
+                    "endOffset": 1682
+                },
+                "from": {
+                    "file": "/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1687,
+                    "endColumn": 54,
+                    "endOffset": 1737
+                },
+                "from": {
+                    "file": "/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1742,
+                    "endColumn": 48,
+                    "endOffset": 1786
+                },
+                "from": {
+                    "file": "/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1791,
+                    "endColumn": 56,
+                    "endOffset": 1843
+                },
+                "from": {
+                    "file": "/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1848,
+                    "endColumn": 62,
+                    "endOffset": 1906
+                },
+                "from": {
+                    "file": "/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1911,
+                    "endLine": 30,
+                    "endColumn": 12,
+                    "endOffset": 2080
+                },
+                "from": {
+                    "file": "/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2085,
+                    "endLine": 37,
+                    "endColumn": 12,
+                    "endOffset": 2457
+                },
+                "from": {
+                    "file": "/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2462,
+                    "endLine": 40,
+                    "endColumn": 12,
+                    "endOffset": 2540
+                },
+                "from": {
+                    "file": "/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2545,
+                    "endLine": 48,
+                    "endColumn": 12,
+                    "endOffset": 3030
+                },
+                "from": {
+                    "file": "/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 3035,
+                    "endLine": 51,
+                    "endColumn": 12,
+                    "endOffset": 3217
+                },
+                "from": {
+                    "file": "/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 3222,
+                    "endLine": 54,
+                    "endColumn": 12,
+                    "endOffset": 3403
+                },
+                "from": {
+                    "file": "/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 3408,
+                    "endLine": 57,
+                    "endColumn": 12,
+                    "endOffset": 3601
+                },
+                "from": {
+                    "file": "/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 3606,
+                    "endLine": 60,
+                    "endColumn": 12,
+                    "endOffset": 3770
+                },
+                "from": {
+                    "file": "/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/res/values/styles.xml"
+                }
+            }
+        ]
+    }
+]

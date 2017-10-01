@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="597661c30f5c3d3aa0cb2d8944a13ff8ab05ab61">
+        <dex dex="/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9d801e3d4c3f0c9c3eb0da23354cab996df74a41/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d58b4b10b14807bef86267a40c675dda6cc09e4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/src/main/java/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="78b8f6e37921559ed21c1fae1f30f9f713494db8">
+        <dex dex="/Users/phatnguyen/Downloads/YoutubeAPIDemo/app/build/intermediates/transforms/dex/debug/folders/1000/2/YouTubeAndroidPlayerApi_fb87db26cc1ba0ed68f0eeefc3ba83efc2bbad7b/classes.dex" />
+    </item>
+
+</items>
